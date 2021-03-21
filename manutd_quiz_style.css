@@ -1,0 +1,11 @@
+details {
+    cursor: pointer;
+}
+
+.input-area {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
